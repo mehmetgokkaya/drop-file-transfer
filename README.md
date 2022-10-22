@@ -1,5 +1,4 @@
 # TR
-# drop-file-transfer
 # Anlık link olşuturarak dosya gönderme 
 * php ile kişiye özel link oluşturup bu link ile kişiler kendi aralarında dosya paylaşımı yapabilecekler
 * her dosya indirildiği taktirde sunucudan silinecek.
@@ -8,7 +7,6 @@
 * Dosya yükleme ve indirme aynı sayfa üzerinden gerçekleşecek. İstenirse karşılık dosya gönder-alma işlemi yapılabilinecektir.
 
 # EN
-# drop-file-transfer
 # Sending files by creating instant links
 * By creating a personal link with php, people will be able to share files among themselves with this link.
 * Your QR code, where you can share the instant link on the file transfer pages, will be automatically created by using google apis.
