@@ -110,7 +110,7 @@
 <?php 
 // if form is submitted
 if(isset($_POST["pname"])){
-$root = "/www/wwwroot/drop.mehmetgokkaya.com/index3.php";
+$root = "/index3.php";
 $folder = mkdir ("upload/".$_POST['pname'], 0777);
 if($folder) {
 $reg = "index.php";
