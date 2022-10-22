@@ -78,7 +78,7 @@ if (isset($_GET['type']) && $_GET['type'] === 'download')
         $url.= $_SERVER['REQUEST_URI'];    
           
       ?>   
-    <h3 style="z-index:999; position:absolute;"><a href="https://drop.mehmetgokkaya.com/">Anasayfaya Dön</a></h3>
+    <h3 style="z-index:999; position:absolute;"><a href="/">Anasayfaya Dön</a></h3>
     <h3 style="z-index:999; position:absolute;right: 0;">Qr Kodunuz:<br /><img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=<?php echo $url ?>" /></h3>
 <input type='file' id='file' />  
 <div id="upload"><div class="text" id="uploadtext">Dosya Yükle</div></div>
