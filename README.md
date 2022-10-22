@@ -20,8 +20,6 @@
 # Screenshots
 # Anasayfa link oluşturma - Homepage, link building
 ![Drop Link](https://user-images.githubusercontent.com/27200160/197337904-c31593c0-b9a4-472b-ae19-3ef2ceb2e081.png)
-# Anasayfa oluşturulan link sayfası - Homepage - created link page
-![Drop Link2](https://user-images.githubusercontent.com/27200160/197337909-cbf68c7b-4883-4d25-85b8-88bce457376d.png)
 # Dosya Gönderme Sayfası - File Submission Page
 ![Dosya Transfer](https://user-images.githubusercontent.com/27200160/197337924-44fb5c9b-449d-487a-b90d-f95f1b301e4e.png)
 # Dosya silindi ya da gönderilmedi uyarı sayfası - File deleted or failed to send warning page
