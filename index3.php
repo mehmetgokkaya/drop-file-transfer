@@ -1,5 +1,5 @@
 <?php
-$maxsize = 5000*1024*1024;       // 50 MB
+$maxsize = 50*1024*1024;       // 50 MB
 $thefiledata = 'thefiledata';  // file which contains the data
 $thefilename = 'thefilename';  // file which contains only the filename
 $autoeraseafterdownload = 1;   // delete file after a download
