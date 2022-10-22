@@ -5,6 +5,7 @@
 * her dosya indirildiği taktirde sunucudan silinecek.
 * Dosya aktarım sayfalarında anlık linki paylaşabileceğiniz QR kodunuzda google apis kulllanırak otomatik oluşturulucak
 * isternirse sil.php sayfası ile 7 günden (size bağlı) eski dosyaları silecek (cronjop oluşturularak otomatik silme gerçekleştirilebilir.)
+* Dosya yükleme ve indirme aynı sayfa üzerinden gerçekleşecek. İstenirse karşılık dosya gönder-alma işlemi yapılabilinecektir.
 
 # EN
 # drop-file-transfer
@@ -13,6 +14,7 @@
 * Your QR code, where you can share the instant link on the file transfer pages, will be automatically created by using google apis.
 * Each file will be deleted from the server once it is downloaded.
 * If desired, it will delete files older than 7 days (up to you) with the delete.php page (automatic deletion can be performed by creating a cronjop).
+* File upload and download will take place on the same page. If desired, it will be possible to send and receive files in return.
 
 
 # Screenshots
