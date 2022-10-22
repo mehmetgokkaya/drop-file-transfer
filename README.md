@@ -1,5 +1,5 @@
 # TR
-# Anlık link olşuturarak dosya gönderme 
+# Anlık link oluşturarak dosya gönderme 
 * Bu sistemin en büyük avantajı veritabanı veya herhangi bir database merkezi kullanmadan bütün işleri basit kodları yapabiliyor olmasıdır.
 * php ile kişiye özel link oluşturup bu link ile kişiler kendi aralarında dosya paylaşımı yapabilecekler
 * Dosyalar upload klasöründe oluşturulacak ve, her dosya indirildiği taktirde sunucudan silinecek.
