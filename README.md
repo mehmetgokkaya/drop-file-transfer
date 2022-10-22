@@ -1,7 +1,7 @@
 # TR
 # Anlık link olşuturarak dosya gönderme 
 * php ile kişiye özel link oluşturup bu link ile kişiler kendi aralarında dosya paylaşımı yapabilecekler
-* her dosya indirildiği taktirde sunucudan silinecek.
+* Dosyalar upload klasöründe oluşturulacak ve, her dosya indirildiği taktirde sunucudan silinecek.
 * Dosya aktarım sayfalarında anlık linki paylaşabileceğiniz QR kodunuzda google apis kulllanırak otomatik oluşturulucak
 * isternirse sil.php sayfası ile 7 günden (size bağlı) eski dosyaları silecek (cronjop oluşturularak otomatik silme gerçekleştirilebilir.)
 * Dosya yükleme ve indirme aynı sayfa üzerinden gerçekleşecek. İstenirse karşılık dosya gönder-alma işlemi yapılabilinecektir.
