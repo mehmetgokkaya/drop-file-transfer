@@ -1,5 +1,6 @@
 # TR
 # Anlık link olşuturarak dosya gönderme 
+* Bu sistemin en büyük avantajı veritabanı veya herhangi bir database merkezi kullanmadan bütün işleri basit kodları yapabiliyor olmasıdır.
 * php ile kişiye özel link oluşturup bu link ile kişiler kendi aralarında dosya paylaşımı yapabilecekler
 * Dosyalar upload klasöründe oluşturulacak ve, her dosya indirildiği taktirde sunucudan silinecek.
 * Dosya aktarım sayfalarında anlık linki paylaşabileceğiniz QR kodunuzda google apis kulllanırak otomatik oluşturulucak
@@ -8,6 +9,7 @@
 
 # EN
 # Sending files by creating instant links
+* The biggest advantage of this system is that it can do all the work with simple codes without using a database or any database center.
 * By creating a personal link with php, people will be able to share files among themselves with this link.
 * Your QR code, where you can share the instant link on the file transfer pages, will be automatically created by using google apis.
 * Each file will be deleted from the server once it is downloaded.
