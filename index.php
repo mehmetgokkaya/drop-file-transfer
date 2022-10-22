@@ -110,7 +110,7 @@
 <?php 
 // if form is submitted
 if(isset($_POST["pname"])){
-$root = "/index3.php";
+$root = "/www/wwwroot/drop.mehmetgokkaya.com/index3.php";
 $folder = mkdir ("upload/".$_POST['pname'], 0777);
 if($folder) {
 $reg = "index.php";
@@ -119,6 +119,8 @@ echo "failed to copy $root...\n";
 $klasor= $_POST['pname'];
 } else {
 $link = "upload/".$_POST['pname'];
+header("Location: $link");
+die();
 echo "<button role='button' style='width: 100%;height: 100%;font-size: 90px;color: red !important;background-color: black !important;border: none;' class='button' ><a href='$link' style='color: red !important;'>Drop Sayfanız Oluşturuldu <br /> Gitmek İçin Tıklayınız</a></button>";
 }
 }
